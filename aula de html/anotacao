@@ -1,0 +1,42 @@
+anotação html 
+
+<h1> </h1>     Títulos (do maior <h1> ao menor <h6>)
+<p>	Parágrafo
+<br>	Quebra de linha
+<hr>	Linha horizontal
+<a href="">	Link para outra página
+<img src="">	Imagem
+<ul>	Lista não ordenada (bolinhas)
+<ol>	Lista ordenada (numerada)
+<li>	Item da lista
+<strong>	Texto em negrito
+<em>	Texto em itálico
+    <label for="nome">Nome:</label>
+<input type="text" id="nome" name="nome" />
+
+    <label>: Texto que indica o que o usuário deve digitar.
+
+    for="nome" conecta o label ao input com id "nome".
+
+    name="nome" identifica o campo para envio do formulário.
+
+4. Outros tipos de campos para texto:
+Tipo	O que faz?
+text	Campo de texto simples
+password	Campo de senha (texto oculto)
+email	Campo que espera email
+tel	Campo para telefone
+number	Campo que aceita só números
+5. Campo de texto grande (multilinha):
+
+<textarea id="mensagem" name="mensagem" rows="4" cols="50"></textarea>
+
+    Cria uma caixa maior para escrever várias linhas.
+
+6. Atributos importantes:
+Atributo	Descrição
+placeholder	Texto que aparece dentro do campo como dica (ex: "Digite seu nome")
+maxlength	Limita o número máximo de caracteres
+required	Deixa o campo obrigatório para preencher
+readonly	Campo só leitura, não pode alterar
+disabled	Campo desabilitado (não interativo)
