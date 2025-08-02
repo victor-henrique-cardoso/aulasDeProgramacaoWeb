@@ -1,1 +1,6 @@
 anotação de css 
+
+inline style = aplicar a formatação direto no elemento
+internal style sheeet = coloca o style direto dentro do cod 
+extranal style sheet = quando coloca a formatação do site em um arquivo esterno (recomentado)
+
