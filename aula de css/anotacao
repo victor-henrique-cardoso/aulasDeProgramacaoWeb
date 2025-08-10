@@ -4,3 +4,17 @@ inline style = aplicar a formatação direto no elemento
 internal style sheeet = coloca o style direto dentro do cod 
 extranal style sheet = quando coloca a formatação do site em um arquivo esterno (recomentado)
 
+classes e IDs
+    ids exemplo:
+        um onibus se eu chamar a pessoa da protona 11 vai ter só uma pessoa o ids dela é 11
+    classes:
+        no onibus posso chamar os passageiros do sexo masculino que é classe masculina
+    como usar classe
+        .azul{
+            color: blue;
+            uma class azul que pode ser usada 
+        }
+    como usar ids
+        #principal{
+            
+        }
