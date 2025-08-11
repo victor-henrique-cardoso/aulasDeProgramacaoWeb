@@ -16,5 +16,13 @@ classes e IDs
         }
     como usar ids
         #principal{
-            
+
         }
+div & Span
+    div == divisão ex: ter uma are de navegação uma area de anuncio div serve pra dividir o site(fica um abaixo do outro)
+
+    Span == coloca uma linha na frente da outra 
+
+    são conteiner generico
+
+    
