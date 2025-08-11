@@ -25,4 +25,6 @@ div & Span
 
     são conteiner generico
 
-    
+bordas
+    pra usar coloca : borde passa a espreçura 2px dps o tipo solid dps a cor red
+    ex: borde 1px solid red;
