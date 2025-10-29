@@ -1,0 +1,38 @@
+/* Remove margens padrão do navegador */
+body {
+    margin: 0;
+}
+
+/* Estilo do menu */
+nav {
+    background-color: black;   /* Fundo preto */
+    width: 100%;               /* Ocupa toda a largura */
+    padding: 20px;
+}
+
+/* Remove as bolinhas e deixa o menu horizontal */
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;             /* Faz os itens ficarem lado a lado */
+    justify-content: center;   /* Centraliza os itens */
+}
+
+/* Estilo dos itens */
+nav li {
+    margin: 0 20px;            /* Espaço entre os itens */
+}
+
+/* Links */
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
+
+/* Efeito ao passar o mouse */
+nav a:hover {
+    color: greenyellow;
+}
